@@ -1,0 +1,16 @@
+que:2 What is OOP? List OOP concepts
+
+-->The C++ programming language is categorized as a partial object-oriented programming language despite the fact that it supports OOP concepts
+	
+	OOP concepts:-
+			 -classes 
+			 -objects
+			 -inheritance
+			 -encapsulation
+			 -abstraction
+			 -polymorphism.
+
+que:3 What is the difference between OOP and POP?
+
+-->Object-Oriented Programming (OOP):
+	-
